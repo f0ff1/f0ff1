@@ -54,4 +54,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=f0ff1)](https://github.com/f0ff1/github-readme-activity-graph)
