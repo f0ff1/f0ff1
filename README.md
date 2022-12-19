@@ -1,5 +1,4 @@
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=f0ff1&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
 <div align="center"> 
   <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -55,4 +54,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1&layout=compact&theme=vision-friendly-dark">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1)](https://github.com/anuraghazra/github-readme-stats)
