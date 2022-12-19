@@ -59,4 +59,4 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=f0ff1&theme=dark">
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
