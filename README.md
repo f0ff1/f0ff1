@@ -58,3 +58,5 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=f0ff1&theme=dark">
