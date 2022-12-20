@@ -53,9 +53,6 @@
 
 <img src="/github-metrics.svg" alt="Metrics" >
 
-<hr>
-
-
 <h2>Quotes</h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
