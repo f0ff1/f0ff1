@@ -59,3 +59,5 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
+<img align="center" src="https://metrics.lecoq.io/insights/f0ff1" alt="FullMetrics">
+
