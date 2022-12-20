@@ -53,6 +53,7 @@
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=f0ff1&theme=dark&background=000000)](https://git.io/streak-stats">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0ff1&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0ff1&show_icons=true&theme=dark)
