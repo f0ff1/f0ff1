@@ -15,7 +15,7 @@
   </a>  
 </div>
 <div id="counter" > 
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-f0ff1&style=flat-square&color=5e9138" alt=""/>
 </div>
 <h1 align="center">
   Hi!
