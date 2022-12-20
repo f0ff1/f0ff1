@@ -26,7 +26,7 @@
 </div>
 </div>
 
-  ### :man_technologist: About Me :
+  ### :man_technologist: About Me:
   
 - :telescope: I'am studying web development. I make up websites.
 
@@ -49,12 +49,12 @@
   
 </div>
 
-### :fire: My Stats :
+  ### :fire: My Stats:
 
 <img src="/github-metrics.svg" alt="Metrics" >
 
 <hr>
-### :neckbeard: Quotes
+  ### :neckbeard: Quotes:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
