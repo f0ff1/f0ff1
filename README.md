@@ -15,11 +15,11 @@
   </a>  
 </div>
 <div id="counter" > 
-  <img src="https://komarev.com/ghpvc/?username=your-github-f0ff1&style=for-the-badge&color=5e9138" alt=""/>
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt=""/>
 </div>
 <h1 align="center">
   Hi!
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
   <img src="https://giphy.com/embed/137EaR4vAOCn1S" width="600" height="300"/>
