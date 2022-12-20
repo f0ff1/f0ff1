@@ -13,9 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        filename: metrics.plugin.isocalendar.fullyear.svg
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: full-year
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
