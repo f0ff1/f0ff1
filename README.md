@@ -57,5 +57,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
