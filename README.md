@@ -5,13 +5,13 @@
 </div>
 <div id="badges" >
   <a href="https://vk.com/fuck__isis">
-    <img src="https://img.shields.io/badge/-Вконтакте-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/-Вконтакте-green?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href="https://www.instagram.com/f0_ff_1/">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-green?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/WeaslyPptony/">
-    <img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Facebook-green?logo=facebook&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>  
 </div>
 <div id="counter" > 
