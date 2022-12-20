@@ -5,17 +5,17 @@
 </div>
 <div id="badges" >
   <a href="https://vk.com/fuck__isis">
-    <img src="https://img.shields.io/badge/-Вконтакте-94c55b?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/-Вконтакте-5e9138?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href="https://www.instagram.com/f0_ff_1/">
-    <img src="https://img.shields.io/badge/-Instagram-94c55b?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-5e9138?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/WeaslyPptony/">
-    <img src="https://img.shields.io/badge/-Facebook-94c55b?logo=facebook&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Facebook-5e9138?logo=facebook&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>  
 </div>
 <div id="counter" > 
-  <img src="https://komarev.com/ghpvc/?username=your-github-f0ff1&style=for-the-badge&color=94c55b" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-f0ff1&style=for-the-badge&color=5e9138" alt=""/>
 </div>
 <h1 align="center">
   Hi!
@@ -34,7 +34,7 @@
 
 - :zap: In my free time I do sports and spend time with my family.
 
-- :mailbox:How to reach me:   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/f0_ff_1/)
+- :mailbox:How to reach me:   [![Instagram Badge](https://img.shields.io/badge/-Instagram-5e9138C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/f0_ff_1/)
 
   ### :hammer_and_wrench: Languages and Tools :
 <div>
