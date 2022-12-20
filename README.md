@@ -34,7 +34,7 @@
 
 - :zap: In my free time I do sports and spend time with my family.
 
-- :mailbox:How to reach me:   [![Instagram Badge](https://img.shields.io/badge/-Instagram-5e9138C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/f0_ff_1/)
+- :mailbox:How to reach me:   [![Instagram Badge](https://img.shields.io/badge/-Instagram-5e9138?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/f0_ff_1/)
 
   ### :hammer_and_wrench: Languages and Tools :
 <div>
