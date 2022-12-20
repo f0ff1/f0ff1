@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2005" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2004" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            196 Commits
+                            198 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,7 +279,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 103 commits)</small>
+                    <small class="h-details">(computed from last 105 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2377,6 +2377,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a2a8096</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">f0ff1/f0ff1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#96d0742</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">f0ff1/f0ff1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#464c3a4</div>
                                         <div class="message">Update README.md</div>
                                     </div>
@@ -2418,46 +2458,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#870e19b</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">f0ff1/f0ff1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e8e8fa0</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">f0ff1/f0ff1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f04e41</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
@@ -2749,7 +2749,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">f0ff1/f0ff1.secondproject.github.io</span>
+                            <span class="blue space">f0ff1/f0ff1</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2757,7 +2757,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 19 Dec 2022, 15:25:34
+                            On 20 Dec 2022, 10:54:57
                         </div>
                     </section>
                 </div>
@@ -2767,29 +2767,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update readme.md
+                            Update README.md
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e621988a</span>
-                            <span class="code">readme.md</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">96d0742b</span>
+                            <span class="code">README.md</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -23,8 +23,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"> &lt;img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> &lt;div&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;div&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   ### <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> About Me :<br /></span><span class="token prefix unchanged">·</span><span class="token line"> &lt;/div&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;/div&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"></span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -55,7 +55,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;hr&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;h2&gt;Quotes&lt;/h2&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2022, 10:54:52 (timezone Europe/Minsk) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 20 Dec 2022, 10:56:13 (timezone Europe/Minsk) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
