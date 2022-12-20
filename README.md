@@ -54,8 +54,7 @@
 <img src="/github-metrics.svg" alt="Metrics" >
 
 <hr>
-  ### :neckbeard: Quotes:
-  ### :man_technologist: About Me:
+  :neckbeard: Quotes:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
