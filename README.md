@@ -54,6 +54,7 @@
 <img src="/github-metrics.svg" alt="Metrics" >
 
 <hr>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
