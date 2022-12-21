@@ -73,3 +73,8 @@ jobs:
           plugin_lines_sections: base
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
