@@ -35,14 +35,10 @@
 
   ### :hammer_and_wrench: Languages and Tools :
 <div>
-  
-  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">&nbsp;
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">&nbsp;   
 </div>
 
   ### :fire: My Stats:
