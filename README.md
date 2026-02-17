@@ -48,11 +48,6 @@
 <!-- Полоса коммитов (частота) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f0ff1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
-<!-- Небольшой график активности за год (опционально) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=f0ff1&theme=react-dark&hide_border=true&area=true)
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
