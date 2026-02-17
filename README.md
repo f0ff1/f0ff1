@@ -43,14 +43,12 @@
 
   ### :fire: My Stats:
 
-<!-- Основная статистика GitHub -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0ff1&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
 
 <!-- Полоса коммитов (частота) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f0ff1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Топ языки -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ff1&layout=compact&theme=radical&hide_border=true)
+
 
 <!-- Небольшой график активности за год (опционально) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=f0ff1&theme=react-dark&hide_border=true&area=true)
