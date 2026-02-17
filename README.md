@@ -43,7 +43,7 @@
 
   ### :fire: My Stats:
 
-<img src="/github-metrics.svg" alt="Metrics" >
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=radical)](https://github.com/anuraghazr/github-readme-stats)
 
 <hr>
   :neckbeard: Quotes:
