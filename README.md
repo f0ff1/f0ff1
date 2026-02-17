@@ -53,7 +53,7 @@
 <!-- Небольшой график активности за год (опционально) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=f0ff1&theme=react-dark&hide_border=true&area=true)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <hr>
