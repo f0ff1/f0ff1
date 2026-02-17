@@ -43,7 +43,11 @@
 
   ### :fire: My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=radical)](https://github.com/anuraghazr/github-readme-stats)
+<!-- Статистика коммитов и репозиториев -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+<!-- Самые популярные языки в ваших репозиториях -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 <hr>
   :neckbeard: Quotes:
